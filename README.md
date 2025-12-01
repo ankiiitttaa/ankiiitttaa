@@ -1,84 +1,22 @@
-<!-- Minimal • Cute • Ankita Rajput -->
+<h1 align="center">Hi 👋, I'm Ankita</h1>
+<h3 align="center">A MERN stack developer passionate about building dynamic web applications.</h3>
 
-<p align="center">
-  <img width="180" src="https://readme-typing-svg.herokuapp.com?size=20&color=FF8DAA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ankita+Rajput+%F0%9F%91%8B;MERN+Stack+Developer+%E2%9C%A8;I+build+clean+%26+playful+web+apps">
-</p>
+# 💫 About Me:
+👋 Hi, I'm Ankita<br> — a MERN stack developer passionate about building dynamic web applications.<br>💻 Tech Stack: MongoDB | Express.js | React | Node.js | RESTful APIs<br>🌱 Currently exploring advanced full-stack development and building scalable projects<br>🔭 Always learning, experimenting with new technologies, and contributing to open-source<br>
 
-<p align="center">
-  <img alt="cute-divider" src="https://img.shields.io/badge/---✨---/-/FFDEE9?style=for-the-badge&labelColor=FFDEE9&color=FFB6C1"/>
-</p>
 
-## ✨ About me
-Hi! I'm **Ankita** — a MERN developer who likes clean UI, tiny delightful animations, and reliable backend code. I enjoy building real apps: UIs that feel good and servers that behave well.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ankiiitttaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ankiiitttaa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankiiitttaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🧰 Skills
-
-**Frontend**  
-- React · HTML5 · CSS3 · Vite
-
-**Backend**  
-- Node.js · Express · MongoDB · REST APIs · JWT
-
-**Realtime / Extras**  
-- Socket.io · React Three Fiber (Three.js) · WebSockets
-
-**Tools**  
-- Git · GitHub · Postman · VSCode
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ankiiitttaa&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ankiiitttaa&icon=8&color=12)](https://visitcount.itsvg.in)
 
-## 💡 Experience
-
-**MERN Stack Developer — KavyaInfoweb Pvt Ltd (6 months)**  
-- Built front-end features and REST APIs using React + Node/Express.  
-- Implemented authentication (JWT) and optimized backend endpoints.  
-- Delivered two main products: a **Food Delivery App** and a **Real-Time Chat App**.  
-- Collaborated in an Agile workflow using Git/GitHub.
-
----
-
-## 🚀 Featured Projects
-
-### 🌀 3D Portfolio  
-Interactive 3D portfolio with smooth animations and optimized rendering.  
-**Tech:** React, React Three Fiber, Three.js, Vite
-
-### 🍔 Food Delivery App  
-Real-time order updates, cart & tracking, secure auth.  
-**Tech:** React, Node, Express, MongoDB, Socket.io, JWT
-
-### 💬 Real-Time Chat App  
-Instant messaging, online/offline presence and chat rooms.  
-**Tech:** React, Node, Express, MongoDB, Socket.io, JWT
-
-> Want images/screenshots for any project? I can add small preview tiles that open the live demo or repo.
-
----
-
-## 📊 GitHub (live)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankiiitttaa&show_icons=true&theme=gruvbox&hide_border=true" width="320" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankiiitttaa&layout=compact&theme=gruvbox&hide_border=true" width="260" />
-</div>
-
----
-
-## ✉️ Contact
-
-<p align="center">
-<a href="https://linkedin.com/in/ankitarajput0910" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-&nbsp;
-<a href="mailto:ankitarajput0910200@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-&nbsp;
-<a href="https://github.com/ankiiitttaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <small>“Code small, ship often, make it cute.” ✨</small>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ give new and good readme for git
